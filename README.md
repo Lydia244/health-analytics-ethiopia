@@ -36,4 +36,5 @@ I’m a Monitoring, Evaluation, and Learning (MEL) specialist with hands-on expe
 
 ---
 
-📂 Explore each folder to view the reports and visuals for each health area.
+> ⚠️ **Disclaimer:** All dashboards presented in this portfolio are based on synthetic data created for demonstration purposes. They do not reflect real patient records or actual health outcomes. The goal is to showcase data analysis, visualization, and storytelling capabilities using realistic public health scenarios.
+
